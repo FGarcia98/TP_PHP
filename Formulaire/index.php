@@ -1,7 +1,7 @@
 <h2>Teste Formulaire</h2>
 
 
-
+coucou
 <?php
 
 //Teste de la variable Get le chiffre
